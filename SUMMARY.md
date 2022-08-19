@@ -19,7 +19,7 @@
 * [2.1 Overview](2-covenant/2.1-overview.md)
 * [2.2 Cluster Architecture](2-covenant/2.2-cluster-architecture.md)
 * [2.3 Roles](2-covenant/2.3-roles.md)
-* [2.4 Clusterig Pahse](2-covenant/2.4-clusterig-pahse.md)
+* [2.4 Clusterig Phase](2-covenant/2.4-clusterig-phase.md)
 * [2.5 Consensus Control Phase](2-covenant/2.5-consensus-control-phase.md)
 * [2.6 Hashing Function](2-covenant/2.6-hashing-function.md)
 
